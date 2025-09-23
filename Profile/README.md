@@ -4,11 +4,11 @@ In the midst of the panic, several people have rushed to make quick profits, rel
 
 ### Sundouleia is made by players, for players, with a clear understanding of its impact and careful consideration of everything it includes.
 
-> "It would just make more sense instead of people fighting and attacking eachother during this panic, we would try to help eachother and NOT panic, and realize how good we actually have it. Because there is a possibility where no mods exist. And that possibility is fucking awful." - Xenosys Vex
+> "It would just make more sense instead of people fighting and attacking each other during this panic, we would try to help each other and NOT panic, and realize how good we actually have it. Because there is a possibility where no mods exist. And that possibility is fucking awful." - Xenosys Vex
 
 > "If people would just chill the fuck out and think of it in a non emotional standpoint and chill. Give people time to do what they need to do, and it will get better." - Xenosys Vex
 
-I respect, and 100% agress with this stance they have said themselves:
+I respect, and 100% agree with this stance they have said themselves:
 https://youtu.be/WvoDLW2u1WE?t=9438
 
 We need to work together and make something for everyone. We do not need to fuel it through greed and money.
