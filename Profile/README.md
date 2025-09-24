@@ -11,4 +11,4 @@ In the midst of the panic, several people have rushed to make quick profits, rel
 I respect, and 100% agree with this stance they have said themselves:
 https://youtu.be/WvoDLW2u1WE?t=9438
 
-We need to work together and make something for everyone. We do not need to fuel it through greed and money.
+We need to work together and make something for everyone, while also respecting the generous boundaries yoship has set for us to have without overstepping them. We do not need to fuel it through greed and money.
