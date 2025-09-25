@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/Sundouleia/repo/blob/main/Images/GithubBanner.png)
+![Banner Image](https://raw.githubusercontent.com/Sundouleia/repo/main/Images/Banner.png)
 ### Sundouleia is made by players, for players. Not designed with a short sighted vision, but for a healthy longevity in mind. Always thinking of what impact its presence will have on the greater whole.
 
 > "It would just make more sense instead of people fighting and attacking each other during this panic, we would try to help each other and NOT panic, and realize how good we actually have it. Because there is a possibility where no mods exist. And that possibility is fucking awful." - Xenosys Vex
