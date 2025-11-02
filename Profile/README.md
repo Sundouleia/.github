@@ -21,5 +21,3 @@ Sundouleia focuses on taking what everyone used in Mare, while discarding / revi
 - A good next solution does not need to stem from ego, greed, or some race.
 
 We need to work together and make something for everyone, while also respecting the generous boundaries yoship has set for us to have without overstepping them. We do not need to fuel it through greed and money.
-
-If you dont want to hear it from me hear it from floof: https://youtu.be/WvoDLW2u1WE?t=9438
