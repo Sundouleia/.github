@@ -1,4 +1,7 @@
 ![Banner Image](https://raw.githubusercontent.com/Sundouleia/repo/main/Images/Banner.png)
+```
+https://raw.githubusercontent.com/Sundouleia/repo/main/sundouleia.json
+```
 ### Sundouleia is made by players, for players. It is not designed with short-sighted vision, but with thoughtfulness toward its long-term impact. Its purpose is to preserve the health of the greater whole.
 
 Following the events that transpired after the Mare shutdown, it is important to remember that whenever major platforms fall, opportunists rush to fill in the gap. These people take advantage of those in fear, panic, and desperation to be loud, make quick solutions, and a quick rush to fame.
