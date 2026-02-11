@@ -53,3 +53,11 @@ Most systems were built or reworked with the goal of minimizing unnecessary redr
 - **Custom Color/Style/Theme Support**  
   Fully configurable styling through CkCommons, including an integrated editor and theme support.
 
+## Why Trust us?
+Ultimately, whether you trust us is your decision.
+
+That said, anyone who used GSpeak knows we’ve been operating a server-based plugin for around over a year now that interacts with a the client in ways that, if misused, could force a wide range of actions.
+
+Despite this level of access, throughout its entire time online we’ve maintained strong security practices, addressed issues quickly, and avoided abuse wherever possible.
+
+We are deliberate about what we add. Features are only implemented when we’re confident they will not create future security risks or privacy concerns. We consistently prioritize user privacy and long-term impact over rushing functionality.
