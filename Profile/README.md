@@ -2,7 +2,7 @@
 ```
 https://raw.githubusercontent.com/Sundouleia/repo/main/sundouleia.json
 ```
-### Made by players, for players. Designed for longevity, security, safety, and consideration for the future ahead.
+### Created by players, for players. Made for longevity, security, safety, and consideration of the future ahead.
 
 Following the events that transpired after the Mare shutdown, it is important to remember that whenever major platforms fall, opportunists rush to fill in the gap. These people take advantage of those in fear, panic, and desperation to be loud, make quick solutions, and a quick rush to fame.
 
