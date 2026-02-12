@@ -31,8 +31,6 @@ Most systems were built or reworked with the goal of minimizing unnecessary redr
 - **Official Supported Moodles Integration __(You can finally apply Moodles to pairs!)__**  
   - Whitelisted support for applying Moodles to pairs
     > *Granted to Sundouleia from years of trust. Thank you Kawaii and Glyceri* 🙏  
-  - Sundouleia owns ephemeral Moodle data for reliable synchronization
-    > Ephemeral means moodles applied to others by Sundouleia cannot be overriden, and ensure proper sync.   
   - Permission-based control over application and removal  
   - __If permission is granted,__ you are able to choose from a pairs moodles when applying, or you can apply from your own.
 - **Command-based interaction**  
