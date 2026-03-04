@@ -31,11 +31,12 @@ If you want to learn more, see visual guides, report issues, or claim an account
 
 - **Connection States**  
   Multiple connection modes (`Try-On`, `Streamer`, `Connected`) control how data is sent, received, and applied, rather than relying on a single connected/disconnected state.
-- **Official Supported Moodles Integration __(You can finally apply Moodles to pairs!)__**  
-  - Whitelisted support for applying Moodles to pairs
-    > *Granted to Sundouleia from years of trust. Thank you Kawaii and Glyceri* 🙏  
-  - Permission-based control over application and removal  
-  - __If permission is granted,__ you are able to choose from a pairs moodles when applying, or you can apply from your own.
+- **Loci Custom Status Management**  
+  - Includive custom status control
+  - Inclusive status locking  
+  - Inclusive target application for statuses on controlled and uncontrolled actors
+  - Permission-based control over application and removal
+  - __If permission is granted,__ you are able to choose from a pairs statuses when applying, or apply from your own.
 - **Command-based interaction**  
   - All major components of Sundouleia have integrated command support that let you automate almost every context menu and keybind interaction through the UI.
   - All commands make use of `CLI` (Command-Line Interface) formatted parsing, allowing for flexibility and a wide range of arguments/paramaters/flags.
