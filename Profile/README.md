@@ -16,6 +16,9 @@ To create a plugin that has longevity, security, safety, and consideration for t
 Sundouleia puts a heavy focus on reducing overhead, improving responsiveness, and giving the client more direct control over how data is transferred, applied, and managed.
 Most systems were built or reworked with the goal of minimizing unnecessary redraws, avoiding excess synchronization, and keeping behavior predictable as scale increases.
 
+## Support
+If you have anything to report or need to claim your account, Join the Discord here: https://discord.gg/QJy4zTqpMD
+
 ## Our Features and Design Choices
 - **Custom file transfer service**  
   - Uses our own sharded file transfer service that simplifies the file transfer logic used previously by Mare. This removes a significant amount of overhead and results in faster transfers with fewer moving parts.
