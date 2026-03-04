@@ -17,7 +17,7 @@ Sundouleia puts a heavy focus on reducing overhead, improving responsiveness, an
 Most systems were built or reworked with the goal of minimizing unnecessary redraws, avoiding excess synchronization, and keeping behavior predictable as scale increases.
 
 ## Support
-If you have anything to report or need to claim your account, Join the Discord here: https://discord.gg/QJy4zTqpMD
+If you want to learn more, see visual guides, report issues, or claim an account, Join the Discord here: https://discord.gg/QJy4zTqpMD
 
 ## Our Features and Design Choices
 - **Custom file transfer service**  
