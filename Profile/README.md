@@ -11,10 +11,8 @@ But as Floof/DarkArchon & Ottermandias reminded us, those who rush to fill these
 At the end of the day, we’re all in the same boat. Placing too much trust in someone who doesn’t consider the broader impact of their actions puts everyone at risk. One misstep, whether it is a tool that goes too far, too public, repeats past mistakes, or becomes unstoppable, invites harsher action from SE. This is not just about features or syncing. It is about protecting the foundation that keeps our boat afloat.
 
 ## This is what drives Sundouleia.
-To create a plugin that has longevity, security, safety, and consideration for the future ahead. Sundouleia is a fully independant project constructed from scratch.
-
-Sundouleia puts a heavy focus on reducing overhead, improving responsiveness, and giving the client more direct control over how data is transferred, applied, and managed.
-Most systems were built or reworked with the goal of minimizing unnecessary redraws, avoiding excess synchronization, and keeping behavior predictable as scale increases.
+Sundouleia took inspiration from mares tech stack and identified ways the service as a whole could be improved. It had to be remade from the ground up, pivoting to a new architecture for its vision to be fulfilled.
+This new structure prioritizes micro-optimizations, efficiency, effectively instant response time, minimal redrawing, and near limitless scalability for all of its features.
 
 ## Support
 If you want to learn more, see visual guides, report issues, or claim an account, Join the Discord here: https://discord.gg/QJy4zTqpMD
@@ -23,13 +21,14 @@ If you want to learn more, see visual guides, report issues, or claim an account
 - **Custom file transfer service**  
   - Uses our own sharded file transfer service that simplifies the file transfer logic used previously by Mare. This removes a significant amount of overhead and results in faster transfers with fewer moving parts.
   - File uploads / downloads are processed and applied dynamically, while other data is applied immediately, reducing perceived delay from others and appearing instantanious.
-- **Deterministic updates**  
+- **Lightning-Fast Updates**  
   Data Updates can be distributed to others as fast as **150ms**, routing deterministic updates over the servers in a manner that avoids bloat as the userbase scales.
 - **Live Data Updates**  
   Pair updates modify actors internally when possible, allowing changes to apply immediately without forcing redraws.
   > *This avoids the rapid flashing that commonly occurs when others adjusts advanced material colors or other mod setting updates.*
-
-- **Connection States**  
+- **Server-Side File Compression**
+  Uploaded textures are automatically compressed server-side, lowering your VRAM usages without impacting your performance. (Supports BC7, BC5, BC3, BC1, applied where best fit)
+- **Connection States**
   Multiple connection modes (`Try-On`, `Streamer`, `Connected`) control how data is sent, received, and applied, rather than relying on a single connected/disconnected state.
 - **Loci Custom Status Management**  
   - Includive custom status control
