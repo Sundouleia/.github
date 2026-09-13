@@ -4,13 +4,26 @@ https://raw.githubusercontent.com/Sundouleia/repo/main/sundouleia.json
 ```
 ### Created by players, for players. Made for longevity, security, safety, and consideration of the future ahead.
 
+Sundouleia is a Community-First, Sync-Second plugin, prioritizing community health and growth as a center point over datasync. 
+
+## Why Try Sundouleia?
+- Join Sanctions, our flagship attraction for the plugin. They are communities that behave like a discord, have **no user cap**, and designed to help venues grow and stay engaged with their audience.
+- Sanctions can have Announcements, Alerts, Embedded Links, An internal Chat, and a SanctionSync you have full management over.
+- Create over 50 roles, and assign or revoke over 15 distinct permissions
+- **Enjoy our custom internal actor handler, minimizing redraws.**
+- Updates are streamed with deltas, allowing updates to occur almost instantaneously.
+- **Server-Side Bc7,Bc5,Bc4,Bc3,Bc1 Texture Compression** to help reduce lag in large gatherings.
+- Enjoy full profile customization, every text, font, color, position, scale, drop shadow, radius, border, and padding can all be customized by you.
+- Create your own gradients, shapes, and paths for your profile, letting your flare shine.
+
+## About us
 Following the events that transpired after the Mare shutdown, it is important to remember that whenever major platforms fall, opportunists rush to fill in the gap. These people take advantage of those in fear, panic, and desperation to be loud, make quick solutions, and a quick rush to fame.
 
 But as Floof/DarkArchon & Ottermandias reminded us, those who rush to fill these gaps are inherently untrustworthy. That we need time to let the dust settle, and give time for a solution to arrive that is not made with a short sighted vision. True safety, trust, and long-term stability cannot be rushed, for it come to those who wait.
 
 At the end of the day, we’re all in the same boat. Placing too much trust in someone who doesn’t consider the broader impact of their actions puts everyone at risk. One misstep, whether it is a tool that goes too far, too public, repeats past mistakes, or becomes unstoppable, invites harsher action from SE. This is not just about features or syncing. It is about protecting the foundation that keeps our boat afloat.
 
-## This is what drives Sundouleia.
+### This is what drives Sundouleia.
 Sundouleia took inspiration from mares tech stack and identified ways the service as a whole could be improved. It had to be remade from the ground up, pivoting to a new architecture for its vision to be fulfilled.
 This new structure prioritizes micro-optimizations, efficiency, effectively instant response time, minimal redrawing, and near limitless scalability for all of its features.
 
