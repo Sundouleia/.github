@@ -6,14 +6,14 @@ https://raw.githubusercontent.com/Sundouleia/repo/main/sundouleia.json
 ```
 
 ## Why Try Sundouleia?
-- Join Sanctions, our flagship attraction for the plugin. They are communities that behave like a discord, have **no user cap**, and designed to help venues grow and stay engaged with their audience.
-- Sanctions can have Announcements, Alerts, Embedded Links, An internal Chat, and a SanctionSync you have full management over.
-- Create over 50 roles, and assign or revoke over 15 distinct permissions
+- Join Sanctions, our flagship attraction for the plugin. They are communities that behave like a Discord, have **no user cap**, and are designed to help venues grow and stay engaged with their audience.
+- Sanctions can have Announcements, Alerts, Embedded Links, an internal Chat, and a SanctionSync you have full management over.
+- Create over 50 roles, and assign or revoke over 15 distinct permissions.
 - **Enjoy our custom internal actor handler, minimizing redraws.**
 - Updates are streamed with deltas, allowing updates to occur almost instantaneously.
-- **Server-Side Bc7,Bc5,Bc4,Bc3,Bc1 Texture Compression** to help reduce lag in large gatherings.
-- Enjoy full profile customization, every text, font, color, position, scale, drop shadow, radius, border, and padding can all be customized by you.
-- Create your own gradients, shapes, and paths for your profile, letting your flare shine.
+- **Server-Side BC7, BC5, BC4, BC3, BC1 Texture Compression** to help reduce lag in large gatherings.
+- Enjoy full profile customization: every text, font, color, position, scale, drop shadow, radius, border, and padding can all be customized by you.
+- Create your own gradients, shapes, and paths for your profile, letting your flair shine.
 
 ## About us
 Following the events that transpired after the Mare shutdown, it is important to remember that whenever major platforms fall, opportunists rush to fill in the gap. These people take advantage of those in fear, panic, and desperation to be loud, make quick solutions, and a quick rush to fame.
