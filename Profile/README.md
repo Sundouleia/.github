@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/Sundouleia/repo/main/sundouleia.json
 
 ## Why Try Sundouleia?
 - Join Sanctions, our flagship attraction for the plugin.
-- __Sanctions act like a discord, and have NO USER LIMIT__. They are designed to help venues grow and stay engaged with their audience.
+- __Sanctions act like a discord, and have NO USER LIMIT__. They are designed to help venues grow and stay engaged with their audience directly within the game, offering a huge convivence for users.
 - Sanctions can have Announcements, Alerts, Embedded Links, an internal Chat, and a SanctionSync you have full management over.
 - Create over 50 roles, and assign or revoke over 15 distinct permissions.
 - **Enjoy our custom internal actor handler, minimizing redraws.**
