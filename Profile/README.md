@@ -1,10 +1,9 @@
-![Banner Image](https://raw.githubusercontent.com/Sundouleia/repo/main/Images/Banner.png)
-```
-https://raw.githubusercontent.com/Sundouleia/repo/main/sundouleia.json
-```
 ### Created by players, for players. Made for longevity, security, safety, and consideration of the future ahead.
 
 Sundouleia is a Community-First, Sync-Second plugin, prioritizing community health and growth as a center point over datasync. 
+```
+https://raw.githubusercontent.com/Sundouleia/repo/main/sundouleia.json
+```
 
 ## Why Try Sundouleia?
 - Join Sanctions, our flagship attraction for the plugin. They are communities that behave like a discord, have **no user cap**, and designed to help venues grow and stay engaged with their audience.
