@@ -1,20 +1,33 @@
 ### Created by players, for players. Made for longevity, security, safety, and consideration of the future ahead.
-
 Sundouleia is a Community-First, Sync-Second plugin, prioritizing community health and growth as a center point over datasync. 
 ```
 https://raw.githubusercontent.com/Sundouleia/repo/main/sundouleia.json
 ```
-
 ## Why Try Sundouleia?
-- Join Sanctions, our flagship attraction for the plugin.
-- __Sanctions act like a discord, and have NO USER LIMIT__. They are designed to help venues grow and stay engaged with their audience directly within the game, offering a huge convivence for users.
-- Sanctions can have Announcements, Alerts, Embedded Links, an internal Chat, and a SanctionSync you have full management over.
-- Create over 50 roles, and assign or revoke over 15 distinct permissions.
-- **Enjoy our custom internal actor handler, minimizing redraws.**
-- Updates are streamed with deltas, allowing updates to occur almost instantaneously.
-- **Server-Side BC7, BC5, BC4, BC3, BC1 Texture Compression** to help reduce lag in large gatherings.
-- Enjoy full profile customization: every text, font, color, position, scale, drop shadow, radius, border, and padding can all be customized by you.
+- It was designed for Venues and Communities, big or small, to stay connected in-game.
+- No more tabbing between discord & XIV. Have everything in one place.
+- Enjoy communities with no user-cap.
+- Access to Announcements, Alerts, Links, Personal Chats, DM's and Personal Syncs
+- Sync updates in 200ms~
+- Experience minimal actor Redraws
+- Optimize VRAM with our Server-Side file compression.
+- Express profiles by editing the font, color, position, scale, shadow, and padding of every element.
 - Create your own gradients, shapes, and paths for your profile, letting your flair shine.
+
+## Easy To Use
+- Account creation takes one click. No discords, no lodestone.
+- Account verification takes 3 clicks. No lodestone, and fully optional.
+- Sanctions are claimed automatically on your Homeworld.
+- Integrated Tutorials & Tips
+
+## Grow Your Community
+- Own/Manage a Venue? Grow your community with Sanctions.
+- Sanctions have no user-cap.
+- Convert Discord Announcements to Alerts in one click.
+- Assigned roles show in the pair list by names at a Sanction
+- Members can set reminders for events.
+- Keep in touch with a SanctionChat.
+- Optionally sync up with a SanctionSync.
 
 ## About us
 Following the events that transpired after the Mare shutdown, it is important to remember that whenever major platforms fall, opportunists rush to fill in the gap. These people take advantage of those in fear, panic, and desperation to be loud, make quick solutions, and a quick rush to fame.
