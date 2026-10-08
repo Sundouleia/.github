@@ -47,7 +47,7 @@ If you want to learn more, see visual guides, report issues, or claim an account
 To ensure a safe environment and effective moderation, accounts must be verified to access Sundouleia's social features. 
 Verification is handled by linking your Discord account. We store only your **Discord User ID** in our database to securely associate it with your Sundouleia account. 
 
-Your Discord ID is automatically and permanently removed from our database if:
+Your Discord ID is removed from our database if:
 * You leave the official Discord server
 * You unlink/remove your account from our service
 * Your Discord account is deleted
