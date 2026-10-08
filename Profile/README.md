@@ -43,6 +43,18 @@ This new structure prioritizes micro-optimizations, efficiency, effectively inst
 ## Support
 If you want to learn more, see visual guides, report issues, or claim an account, Join the Discord here: https://discord.gg/QJy4zTqpMD
 
+## Privacy Policy & Account Verification
+To ensure a safe environment and effective moderation, accounts must be verified to access Sundouleia's social features. 
+Verification is handled by linking your Discord account. We store only your **Discord User ID** in our database to securely associate it with your Sundouleia account. 
+
+Your Discord ID is automatically and permanently removed from our database if:
+* You leave the official Discord server
+* You unlink/remove your account from our service
+* Your Discord account is deleted
+
+**How we use this data:**
+Your Discord ID is periodically checked by our server to verify your active Sundouleia account status, synchronize your supporter/vanity roles in the Discord server, and apply your vanity perks within Sundouleia.
+
 ## Our Features and Design Choices
 - **Custom file transfer service**  
   - Uses our own sharded file transfer service that simplifies the file transfer logic used previously by Mare. This removes a significant amount of overhead and results in faster transfers with fewer moving parts.
